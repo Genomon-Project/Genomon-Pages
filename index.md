@@ -1,31 +1,30 @@
 ---
 layout: page
 image:
-  feature: SalmonLogo.png
-headline: Salmon
-subtitle: Don't count . . . quantify!
+  feature: genomon_test.png
+headline: Genomon 
+subtitle: The art of cancer genome analysis 
 search_omit: true
 ---
 
 Overview
 --------
 
-Salmon is a tool for quantifying the expression of transcripts using RNA-seq
-data. Salmon uses new algorithms (specifically, coupling the novel concept of
-*lightweight alignment* with a streaming inference algorithm) to provide
-accurate expression estimates very quickly (i.e. *wicked-fast*) and while using
-very little memory. Salmon performs its inference using an expressive and
-realistic model of RNA-seq data that takes into account the attributes, like
-position-specfic bias, observed in *real* experimental data.
+Genomon is a pipeline for analysisng cancer genome and RNA sequencing data.
+
+For DNA sequencing analysis, Genomon performs sensitive and accurate detect of
+most types of genomic variants (not only single nucleotide variants, short indels,
+and structural variations but also mid-range (10bp - 300bp) indels such as 
+internal tandem duplications and viral sequence integrations).
+
+For RNA sequencing analysis, Genomon performs sensitive and accurate detection of 
+gene fusions, cancer specific splicing changes.
+
 
 Funding
 -------
-- **NSF**
-    CCF-1256087, CCF-1053918, EF-0849899
-- **NNIH**
-    1R21HG006913, 1R21AI085376
-- **Alfred P. Sloan Foundation**
-    Sloan Research Fellowship to Carl Kingsford
+- Miyanon
+
 
 This material is based upon work supported by the National Science Foundation
 under Grant Numbers EF-0849899, IIS-0812111, CCF-1053918. Any opinions,

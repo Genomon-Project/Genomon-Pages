@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/salmon/blog/hello-world/</loc>
+    <loc>http://localhost:4400/blog/hello-world/</loc>
     <lastmod>2014-08-09T04:39:55+09:00</lastmod>
   </url>
   <url>
-    <loc>/salmon/articles/author-override/</loc>
+    <loc>http://localhost:4400/articles/author-override/</loc>
     <lastmod>2014-06-19T00:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>/salmon/articles/code-highlighting-post/</loc>
+    <loc>http://localhost:4400/articles/code-highlighting-post/</loc>
     <lastmod>2013-08-16T00:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>/salmon/articles/sample-link-post/</loc>
+    <loc>http://localhost:4400/articles/sample-link-post/</loc>
     <lastmod>2013-08-12T00:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>/salmon/articles/video-post/</loc>
+    <loc>http://localhost:4400/articles/video-post/</loc>
     <lastmod>2013-06-25T00:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>/salmon/articles/readability-feature-post/</loc>
+    <loc>http://localhost:4400/articles/readability-feature-post/</loc>
     <lastmod>2013-05-23T00:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>/salmon/articles/sample-post-images/</loc>
+    <loc>http://localhost:4400/articles/sample-post-images/</loc>
     <lastmod>2013-05-22T00:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>/salmon/articles/readability-post/</loc>
+    <loc>http://localhost:4400/articles/readability-post/</loc>
     <lastmod>2012-05-22T00:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>/salmon/articles/sample-post/</loc>
+    <loc>http://localhost:4400/articles/sample-post/</loc>
     <lastmod>2011-03-10T00:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>/salmon/about/</loc>
+    <loc>http://localhost:4400/about/</loc>
   </url>
   <url>
-    <loc>/salmon/blog/</loc>
+    <loc>http://localhost:4400/blog/</loc>
   </url>
   <url>
-    <loc>/salmon/</loc>
+    <loc>http://localhost:4400/</loc>
   </url>
   <url>
-    <loc>/salmon/articles/</loc>
+    <loc>http://localhost:4400/articles/</loc>
   </url>
   <url>
-    <loc>/salmon/tags/</loc>
+    <loc>http://localhost:4400/tags/</loc>
   </url>
   <url>
-    <loc>/salmon/version_info/</loc>
+    <loc>http://localhost:4400/version_info/</loc>
   </url>
   <url>
-    <loc>/salmon/contact/</loc>
+    <loc>http://localhost:4400/contact/</loc>
   </url>
 </urlset>
