@@ -3,7 +3,7 @@ layout: page
 image:
   feature: genomon_test.png
 headline: Genomon 
-subtitle: The art of cancer genome analysis 
+subtitle: The Zen of Cancer Genome Sequence Analysis 
 search_omit: true
 ---
 

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Salmon: Lightweight transcript quantification from RNA-seq data</title>
+<title type="text">Genomon: The Zen of Cancer Genome Sequencing Analysis</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4400/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4400" />
-<updated>2015-07-30T12:45:50+09:00</updated>
+<updated>2015-07-30T13:02:34+09:00</updated>
 <id>http://localhost:4400/</id>
 <author>
   <name>Rob Patro</name>
@@ -45,7 +45,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Salmon: Lightweight transcript quantification from RNA-seq data&lt;/a&gt; on August 09, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Genomon: The Zen of Cancer Genome Sequencing Analysis&lt;/a&gt; on August 09, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -95,7 +95,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;l-Scalar-Plain&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;billy_rick&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/author-override/&quot;&gt;Override Author Byline Test Post&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Salmon: Lightweight transcript quantification from RNA-seq data&lt;/a&gt; on June 19, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/author-override/&quot;&gt;Override Author Byline Test Post&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Genomon: The Zen of Cancer Genome Sequencing Analysis&lt;/a&gt; on June 19, 2014.&lt;/p&gt;
   </content>
 </entry>
 
@@ -212,7 +212,7 @@ end
   &lt;/ol&gt;
 &lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/code-highlighting-post/&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Salmon: Lightweight transcript quantification from RNA-seq data&lt;/a&gt; on August 16, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/code-highlighting-post/&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Genomon: The Zen of Cancer Genome Sequencing Analysis&lt;/a&gt; on August 16, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -233,7 +233,7 @@ end
   <content type="html">
     &lt;p&gt;So Simple Theme now supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To activate just add &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to the post’s YAML front matter and you’re done.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/sample-link-post/&quot;&gt;Sample Link Post&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Salmon: Lightweight transcript quantification from RNA-seq data&lt;/a&gt; on August 12, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/sample-link-post/&quot;&gt;Sample Link Post&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Genomon: The Zen of Cancer Genome Sequencing Analysis&lt;/a&gt; on August 12, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -264,7 +264,7 @@ end
 
 &lt;iframe src=&quot;//player.vimeo.com/video/98146708?title=0&amp;amp;byline=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/video-post/&quot;&gt;A Post with a Video&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Salmon: Lightweight transcript quantification from RNA-seq data&lt;/a&gt; on June 25, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/video-post/&quot;&gt;A Post with a Video&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Genomon: The Zen of Cancer Genome Sequencing Analysis&lt;/a&gt; on June 25, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -325,7 +325,7 @@ end
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/readability-feature-post/&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Salmon: Lightweight transcript quantification from RNA-seq data&lt;/a&gt; on May 23, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/readability-feature-post/&quot;&gt;Post with Large Feature Image and Text&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Genomon: The Zen of Cancer Genome Sequencing Analysis&lt;/a&gt; on May 23, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -398,7 +398,7 @@ end
 	&lt;figcaption&gt;Three images.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/sample-post-images/&quot;&gt;A Post with Images&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Salmon: Lightweight transcript quantification from RNA-seq data&lt;/a&gt; on May 22, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/sample-post-images/&quot;&gt;A Post with Images&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Genomon: The Zen of Cancer Genome Sequencing Analysis&lt;/a&gt; on May 22, 2013.&lt;/p&gt;
   </content>
 </entry>
 
@@ -458,7 +458,7 @@ end
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/readability-post/&quot;&gt;Testing Readability with a Bunch of Text&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Salmon: Lightweight transcript quantification from RNA-seq data&lt;/a&gt; on May 22, 2012.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/readability-post/&quot;&gt;Testing Readability with a Bunch of Text&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Genomon: The Zen of Cancer Genome Sequencing Analysis&lt;/a&gt; on May 22, 2012.&lt;/p&gt;
   </content>
 </entry>
 
@@ -597,7 +597,7 @@ end
 
 &lt;div&gt;&lt;a href=&quot;http://mademistakes.com&quot; class=&quot;btn&quot;&gt;This is a button&lt;/a&gt;&lt;/div&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Salmon: Lightweight transcript quantification from RNA-seq data&lt;/a&gt; on March 10, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4400/articles/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Rob Patro at &lt;a href=&quot;http://localhost:4400&quot;&gt;Genomon: The Zen of Cancer Genome Sequencing Analysis&lt;/a&gt; on March 10, 2011.&lt;/p&gt;
   </content>
 </entry>
 
