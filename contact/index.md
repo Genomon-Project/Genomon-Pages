@@ -3,7 +3,7 @@ layout: page
 title: Contact us
 excerpt: "Salmon is an easy-to-use and ultrafast program for quantification from RNA-seq data"
 image:
-  feature: SalmonLogo.png
+  feature: genomon_test.png
 #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
