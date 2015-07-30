@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Don't count . . . quantify
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: /Genomon-Pages # the base hostname & protocol for your site
-url: http://localhost:4400
+# url: http://localhost:4400
 
 # twitter_username: nomad421  
 github_username: friend1ws 
