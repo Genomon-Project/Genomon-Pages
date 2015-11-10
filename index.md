@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: genomon_test.png
+  feature: loop_80F.gif
 headline: Genomon 
 subtitle: The Zen of Cancer Genome Sequence Analysis 
 search_omit: true
