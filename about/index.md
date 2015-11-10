@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Salmon
+title: About Genomon 
 excerpt: "Salmon is an easy-to-use and ultrafast program for quantification from RNA-seq data"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
@@ -9,7 +9,7 @@ image:
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Salmon is a **wicked-fast** program to produce a highly-accurate,
+Genomon is a **wicked-fast** program to produce a highly-accurate,
 transcript-level quantification estimates from RNA-seq data. Salmon achieves is
 accuracy and speed via a number of different innovations, including the use of
 lightweight alignments (accurate but fast-to-compute proxies for traditional
