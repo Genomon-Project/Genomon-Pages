@@ -92,7 +92,7 @@
 		    
 		        
 		        
-		    <li><a href="https://COMBINE-lab.github.io/salmon" target="_blank">Home</a></li>
+		    <li><a href="http://genomon-project.github.io/Genomon-Pages/" target="_blank">Home</a></li>
 		  
 		    
 		        
@@ -107,17 +107,12 @@
 		    
 		        
 		        
-		    <li><a href="http://salmon.readthedocs.org" target="_blank">Documentation</a></li>
+		    <li><a href="http://genomon.readthedocs.org/ja/latest/" target="_blank">Documentation</a></li>
 		  
 		    
 		        
 		        
-		    <li><a href="https://github.com/COMBINE-lab/salmon" target="_blank">Code</a></li>
-		  
-		    
-		        
-		        
-		    <li><a href="https://github.com/COMBINE-lab/salmon/releases" target="_blank">Binaries</a></li>
+		    <li><a href="https://github.com/Genomon-Project" target="_blank">Code</a></li>
 		  
 		    
 		        
@@ -150,35 +145,7 @@
             
       </header>
       <div class="entry-content">
-        <p>Genomon is a <strong>wicked-fast</strong> program to produce a highly-accurate,
-transcript-level quantification estimates from RNA-seq data. Salmon achieves is
-accuracy and speed via a number of different innovations, including the use of
-lightweight alignments (accurate but fast-to-compute proxies for traditional
-read alignments) and massively-parallel stochastic collapsed variational
-inference. The result is a versatile tool that fits nicely into many differnt
-pipelines. For example, you can choose to make use of our lightweight
-alignments by providing Salmon with raw sequencing reads, or, if it is more
-convenient, you can provide Salmon with regular alignments (e.g. computed with
-your favorite aligner), and it will use the same wicked-fast, state-of-the-art
-inference algorithm to estimate transcript-level abundances for your
-experiment.</p>
-
-<p>All you need to run Salmon is a FASTA file containing your reference
-transcripts and a (set of) FASTA/FASTQ file(s) containing your reads.
-Optionally, Salmon can make use of pre-computed alignments (in the form of a
-SAM/BAM file) to the transcripts rather than the raw reads.</p>
-
-<p>The <em>lightweight-alignment-based</em> mode of Salmon runs in two phases; indexing
-and quantification. The indexing step is independent of the reads, and only
-need to be run one for a particular set of reference transcripts. The
-quantification step, obviously, is specific to the set of RNA-seq reads and is
-thus run more frequently. For a more complete description of all available
-options in Salmon, see below.</p>
-
-<p>The <em>alignment-based</em> mode of Salmon does not require indexing. Rather, you can
-simply provide Salmon with a FASTA file of the transcripts and a SAM/BAM file
-containing the alignments you wish to use for quantification.</p>
-
+        <p>Genomon is a framework for analyzing cancer genome and transcriptome sequencing data.</p>
 
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->

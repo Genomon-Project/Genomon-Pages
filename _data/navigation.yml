@@ -1,6 +1,6 @@
 # Site navigation links
 - title: Home
-  url: https://COMBINE-lab.github.io/salmon
+  url: http://genomon-project.github.io/Genomon-Pages/
 
 - title: About
   url: /about/
@@ -9,13 +9,13 @@
   url: /contact/
 
 - title: Documentation
-  url: http://salmon.readthedocs.org
+  url: http://genomon.readthedocs.org/ja/latest/
 
 - title: Code
-  url: https://github.com/COMBINE-lab/salmon
+  url: https://github.com/Genomon-Project
 
-- title: Binaries
-  url: https://github.com/COMBINE-lab/salmon/releases
+# - title: Binaries
+#   url: https://github.com/COMBINE-lab/salmon/releases
 #- title: Blog
 #  url: /blog/
 

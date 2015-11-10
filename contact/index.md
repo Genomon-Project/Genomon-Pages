@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact us
-excerpt: "Salmon is an easy-to-use and ultrafast program for quantification from RNA-seq data"
+excerpt: "The Zen of Cancer Genome Analysis"
 image:
   feature: genomon_test.png
 #  credit: WeGraphics
@@ -11,12 +11,19 @@ image:
 Contact
 -------
 
-The Salmon software is developed by [Rob Patro](http://www.robpatro.com) at
-[Stony Brook University](http://www.cs.stonybrook.edu) in collaboration with
-[Geet Duggal](http://www.geetduggal.com) and [Carl Kingsford](http://www.cs.cmu.edu/~ckingsf) at the [Computational Biology Department](http://www.compbio.cmu.edu) at [Carnegie Mellon University](http://www.cmu.edu), with contributions from [Steve
-Mount](http://www.clfs.umd.edu/labs/mount/) at the [Center for Bioinformatics and Computational Biology](http://www.cbcb.umd.edu/) 
-at the [University of Maryland, College Park](http://www.umd.edu/).
+Genomon Project is a collaborative effort between 
+- Satoru Miyano Laboratory, Human Geome Center, The Institute of Medical Science, The University of Tokyo 
+- Seishi Ogawa Laboratory, Department of Pathology and Tumor Biology, Graduate School of Medicine, Kyoto University.
+and supported by grants from Miinistry of Education, Culture, Sports, Science and Technology,
+Japan (22134004 and 15H05912).
+ 
 
-We're very interested to hear others' feedback about using Salmon for their
+The most packages in this project are developed by [Yuichi Shirashi](https://github.com/friend1ws)
+and [Kenichi Chiba](https://github.com/ken0-1n), through the helps of Eigo Shimizu, Ai Okada, Mitsuhiro Komura, Hiroko Tanaka
+and the members of Satoru Miyano and Seishi Ogawa laboratories.
+
+The character of Genomon is desined by Yuki Tsujita.
+
+We're very interested to hear others' feedback about using Genomon for their
 projects and in their pipelines.  To this end, Salmon is actively developed on
 GitHub and we interact regularly with users on our [Google Group](http://ongen.us/SForum).
