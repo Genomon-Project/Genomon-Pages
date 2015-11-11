@@ -3,7 +3,7 @@ layout: page
 title: Contact us
 excerpt: "The Zen of Cancer Genome Analysis"
 image:
-  feature: genomon_test.png
+  feature: genomon-test2.png
 #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---

@@ -3,7 +3,7 @@
   
     {
       "title"			: "Hello World",
-      "link"			: "/Genomon-Pages/blog/hello-world/",
+      "link"			: "http://localhost:4000/blog/hello-world/",
       "excerpt"		: ""
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Override Author Byline Test Post",
-      "link"			: "/Genomon-Pages/articles/author-override/",
+      "link"			: "http://localhost:4000/articles/author-override/",
       "excerpt"		: "An article to test overriding the default site author."
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "Syntax Highlighting Post",
-      "link"			: "/Genomon-Pages/articles/code-highlighting-post/",
+      "link"			: "http://localhost:4000/articles/code-highlighting-post/",
       "excerpt"		: "Demo post displaying the various ways of highlighting code in Markdown."
     }
   
@@ -27,7 +27,7 @@
   
     ,{
       "title"			: "Sample Link Post",
-      "link"			: "/Genomon-Pages/articles/sample-link-post/",
+      "link"			: "http://localhost:4000/articles/sample-link-post/",
       "excerpt"		: "Example and code for using link posts."
     }
   
@@ -35,7 +35,7 @@
   
     ,{
       "title"			: "A Post with a Video",
-      "link"			: "/Genomon-Pages/articles/video-post/",
+      "link"			: "http://localhost:4000/articles/video-post/",
       "excerpt"		: "Custom written post descriptions are the way to go... if you're not lazy."
     }
   
@@ -43,7 +43,7 @@
   
     ,{
       "title"			: "Post with Large Feature Image and Text",
-      "link"			: "/Genomon-Pages/articles/readability-feature-post/",
+      "link"			: "http://localhost:4000/articles/readability-feature-post/",
       "excerpt"		: "Custom written post descriptions are the way to go... if you're not lazy."
     }
   
@@ -51,7 +51,7 @@
   
     ,{
       "title"			: "A Post with Images",
-      "link"			: "/Genomon-Pages/articles/sample-post-images/",
+      "link"			: "http://localhost:4000/articles/sample-post-images/",
       "excerpt"		: "Examples and code for displaying images in posts."
     }
   
@@ -59,7 +59,7 @@
   
     ,{
       "title"			: "Testing Readability with a Bunch of Text",
-      "link"			: "/Genomon-Pages/articles/readability-post/",
+      "link"			: "http://localhost:4000/articles/readability-post/",
       "excerpt"		: "A ton of text to test readability."
     }
   
@@ -67,7 +67,7 @@
   
     ,{
       "title"			: "Sample Post",
-      "link"			: "/Genomon-Pages/articles/sample-post/",
+      "link"			: "http://localhost:4000/articles/sample-post/",
       "excerpt"		: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
     }
   
@@ -81,7 +81,7 @@
   
     ,{
       "title"			: "About Genomon",
-      "link"			: "/Genomon-Pages/about/",
+      "link"			: "http://localhost:4000/about/",
       "excerpt"		: "Salmon is an easy-to-use and ultrafast program for quantification from RNA-seq data"
     }
   
@@ -97,7 +97,7 @@
   
     ,{
       "title"			: "Salmoni Versions",
-      "link"			: "/Genomon-Pages/version_info/",
+      "link"			: "http://localhost:4000/version_info/",
       "excerpt"		: "Salmon is an easy-to-use and ultrafast program for quantification from RNA-seq data"
     }
   
@@ -107,7 +107,7 @@
   
     ,{
       "title"			: "Contact us",
-      "link"			: "/Genomon-Pages/contact/",
+      "link"			: "http://localhost:4000/contact/",
       "excerpt"		: "The Zen of Cancer Genome Analysis"
     }
   
