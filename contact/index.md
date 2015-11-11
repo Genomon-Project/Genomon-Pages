@@ -19,11 +19,11 @@ Japan (22134004 and 15H05912).
  
 
 The most packages in this project are developed by [Yuichi Shirashi](https://github.com/friend1ws)
-and [Kenichi Chiba](https://github.com/ken0-1n), through the helps of Eigo Shimizu, Ai Okada, Mitsuhiro Komura, Hiroko Tanaka
+and [Kenichi Chiba](https://github.com/ken0-1n), with the help of Eigo Shimizu, Ai Okada, Mitsuhiro Komura, Hiroko Tanaka
 and the members of Satoru Miyano and Seishi Ogawa laboratories.
 
-The character of Genomon is desined by Yuki Tsujita.
+We greatly welcome feedback on Genomon.
+Let's interact on our [Google Group](https://groups.google.com/forum/#!forum/genomon).
 
-We're very interested to hear others' feedback about using Genomon for their
-projects and in their pipelines.  To this end, Salmon is actively developed on
-GitHub and we interact regularly with users on our [Google Group](http://ongen.us/SForum).
+ The character of Genomon is desined by Yuki Tsujita.
+

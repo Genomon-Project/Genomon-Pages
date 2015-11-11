@@ -10,24 +10,19 @@ search_omit: true
 Overview
 --------
 
-Genomon is a pipeline for analysisng cancer genome and RNA sequencing data.
+Genomon is a pipeline for analyzing cancer genome and RNA sequencing data.
 
-For DNA sequencing analysis, Genomon performs sensitive and accurate detect of
-most types of genomic variants (not only single nucleotide variants, short indels,
-and structural variations but also mid-range (10bp - 300bp) indels such as 
-internal tandem duplications and viral sequence integrations).
-
-For RNA sequencing analysis, Genomon performs sensitive and accurate detection of 
-gene fusions, cancer specific splicing changes.
+The Genomon can perform sensitive and accurate detection of most types of genomic variants
+(single nucleotide variants, short indels, mid-size (20bp - 300bp) indels and large scale structural variations),
+and transcriptomic changes (gene fusions, aberrant splicing patterns),
+and fairy good performance is demonstrated 
+through [a large number of important cancer genome projects](http://www.ncbi.nlm.nih.gov/pubmed?term=(Ogawa%2C%20Seishi%5BAuthor%5D)%20AND%20Miyano%2C%20Satoru%5BAuthor%5D).
 
 
-Funding
--------
-- Miyanon
+Genomon adopt efficient job scheduling framework that enables us easily analyzing several hundreds of 
+genome and transcriptome sequencing data simultaneously.
+Genomon is easy to install and after installing, 
+users can start analysis just preparing simple sample configuration files.
 
+Also, Genomon can be easily extensible and developers can freely re-distribute throught GPLv3 license,
 
-This material is based upon work supported by the National Science Foundation
-under Grant Numbers EF-0849899, IIS-0812111, CCF-1053918. Any opinions,
-findings, and conclusions or recommendations expressed in this material are
-those of the author(s) and do not necessarily reflect the views of the National
-Science Foundation.
