@@ -82,7 +82,7 @@
     ,{
       "title"			: "About Genomon",
       "link"			: "/GenomonPages/about/",
-      "excerpt"		: "Salmon is an easy-to-use and ultrafast program for quantification from RNA-seq data"
+      "excerpt"		: "Genomon is an easy-to-use cancer genome sequence analysys pipeline"
     }
   
 
