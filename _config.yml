@@ -4,7 +4,7 @@ locale: en_US
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
     The Zen of Cancer Genome Sequencing Analysis
-baseurl: "/Users/friend1ws/Documents/project/GenomonPages" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: /GenomonPages # the base hostname & protocol for your site
 # url: http://localhost:4000
 # port: 3000 # change server port to 300
