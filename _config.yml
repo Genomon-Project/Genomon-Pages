@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: /Genomon-Pages # the base hostname & protocol for your site
 # url: http://localhost:4000
+# port: 3000 # change server port to 300
 
 # twitter_username: nomad421  
 github_username: Genomon-Project 
