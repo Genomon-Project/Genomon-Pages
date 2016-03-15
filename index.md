@@ -28,7 +28,7 @@ Genomon is a suite of bioinformatics tools for analyzing cancer genome and RNA s
 <div class="frame">
 <div class="box" style="width:200px">
 <center><h2>Easy to use!</h2></center>
-<div align="center"><img src="../images/iconmonstr-laptop-4-96.png"></div>
+<div align="center"><img src="images/iconmonstr-laptop-4-96.png"></div>
 <br>
 </div>
 
@@ -44,7 +44,7 @@ genomon_pipeline dna input.csv output_dir
 <div class="frame">
 <div class="box" style="width:200px">
 <center><h2>Large scale!</h2></center>
-<div align="center"><img src="../images/iconmonstr-server-7-96.png"></div>
+<div align="center"><img src="images/iconmonstr-server-7-96.png"></div>
 <br>
 </div>
 <div class="box">
@@ -56,7 +56,7 @@ You can analyze several hundreds of genomic and transcriptome sequencing data si
 <div class="frame">
 <div class="box" style="width:200px">
 <center><h2>Flexible!</h2></center>
-<div align="center"><img src="../images/iconmonstr-control-panel-11-96.png"></div>
+<div align="center"><img src="images/iconmonstr-control-panel-11-96.png"></div>
 <br>
 </div>
 <div class="box">
