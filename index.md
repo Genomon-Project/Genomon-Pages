@@ -9,35 +9,61 @@ search_omit: true
 
 Genomon is a suite of bioinformatics tools for analyzing cancer genome and RNA sequencing data.
 
-<ul style="list-style-type: none;">
+<style type="text/css">
 
-<li style="margin: 10px; padding: 10px; background-color: #EFEFEF;">
+.frame {
+  border-collapse: separate;
+  border-spacing: 0px 10px;
+  display: table;
+  width: 100%;
+}
+.box {
+  display: table-cell;
+  vertical-align: middle;
+  background-color: #EFEFEF;
+  padding: 10px;
+}
+</style>
+
+<div class="frame">
+<div class="box" style="width:200px">
 <center><h2>Easy to use!</h2></center>
-<div align="center"><img src="images/iconmonstr-laptop-4-96.png"></div>
+<div align="center"><img src="../images/iconmonstr-laptop-4-96.png"></div>
 <br>
+</div>
+
+<div class="box">
 Genomon is now easier than ever to use.<br>
 You just need to prepare list of input sequence data paths and just type:
 <pre style="margin: 15px; padding: 5px; background-color: #FFFFFF;">
 genomon_pipeline dna input.csv output_dir
 </pre>
-</li>
+</div>
+</div>
 
-<li style="margin: 10px; padding: 10px; background-color: #EFEFEF;">
-<center><h2>Large scale analysis!</h2></center>
-<div align="center"><img src="images/iconmonstr-server-7-96.png"></div>
+<div class="frame">
+<div class="box" style="width:200px">
+<center><h2>Large scale!</h2></center>
+<div align="center"><img src="../images/iconmonstr-server-7-96.png"></div>
 <br>
+</div>
+<div class="box">
 Genomon is now highly optimized and efficiently utilizes ruffus package for job scheduling. <br>
-You can analyze several hundreds of genomic and transcriptome sequencing data simultaneously. 
-</li>
+You can analyze several hundreds of genomic and transcriptome sequencing data simultaneously.
+</div>
+</div>
 
-<li style="margin: 10px; padding: 10px; background-color: #EFEFEF;">
+<div class="frame">
+<div class="box" style="width:200px">
 <center><h2>Flexible!</h2></center>
-<div align="center"><img src="images/iconmonstr-control-panel-11-96.png"></div>
+<div align="center"><img src="../images/iconmonstr-control-panel-11-96.png"></div>
 <br>
+</div>
+<div class="box">
 Genomon is extensible. So you can easily incorporate your favorite modules into Genomon. <br>
 Also you can easily deploy Genomon to your own cluster other than HGC supercomputer. 
-</li>
-</ul>
+</div>
+</div>
 
 # Overview
 
