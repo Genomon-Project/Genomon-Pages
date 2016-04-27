@@ -22,8 +22,7 @@ The most packages in this project are developed by [Yuichi Shirashi](https://git
 and [Kenichi Chiba](https://github.com/ken0-1n), with the help of Eigo Shimizu, Ai Okada, Mitsuhiro Komura, Hiroko Tanaka
 and the members of Satoru Miyano and Seishi Ogawa laboratories.
 
-We greatly welcome feedback on Genomon.
-Let's interact on our [Google Group](https://groups.google.com/forum/#!forum/genomon).
+We greatly welcome feedback on Genomon to genomon.devel@gmail.com.
 
  The character of Genomon is desined by Yuki Tsujita.
 
