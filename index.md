@@ -36,7 +36,7 @@ Genomon is a suite of bioinformatics tools for analyzing cancer genome and RNA s
 Genomon is now easier than ever to use.<br>
 You just need to prepare list of input sequence data paths and just type:
 <pre style="margin: 15px; padding: 5px; background-color: #FFFFFF;">
-genomon_pipeline dna input.csv output_dir
+genomon_pipeline dna input.csv output_dir config.cfg
 </pre>
 </div>
 </div>
@@ -48,8 +48,8 @@ genomon_pipeline dna input.csv output_dir
 <br>
 </div>
 <div class="box">
-Genomon is now highly optimized and efficiently utilizes ruffus package for job scheduling. <br>
-You can analyze several hundreds of genomic and transcriptome sequencing data simultaneously.
+Genomon is now highly optimized and equipped with efficient job scheduling framework. <br>
+Several hundreds of genomic and transcriptome sequencing data can be analized simultaneously.
 </div>
 </div>
 
@@ -61,7 +61,7 @@ You can analyze several hundreds of genomic and transcriptome sequencing data si
 </div>
 <div class="box">
 Genomon is extensible. So you can easily incorporate your favorite modules into Genomon. <br>
-Also you can easily deploy Genomon to your own cluster other than HGC supercomputer. 
+Also you can easily deploy Genomon to your own cluster. 
 </div>
 </div>
 
