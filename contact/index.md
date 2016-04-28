@@ -19,7 +19,7 @@ Japan (22134004 and 15H05912).
  
 
 The most packages in this project are developed by [Yuichi Shirashi](https://github.com/friend1ws)
-and [Kenichi Chiba](https://github.com/ken0-1n), with the help of Eigo Shimizu, Ai Okada, Mitsuhiro Komura, Hiroko Tanaka
+and [Kenichi Chiba](https://github.com/ken0-1n), with the help of Ai Okada, Eigo Shimizu, Mitsuhiro Komura, Hiroko Tanaka
 and the members of Satoru Miyano and Seishi Ogawa laboratories.
 
 We greatly welcome feedback on Genomon to genomon.devel@gmail.com.
