@@ -24,5 +24,9 @@ and the members of Satoru Miyano and Seishi Ogawa laboratories.
 
 We greatly welcome feedback on Genomon to genomon.devel@gmail.com.
 
+Also, you can make an appointment with us, here.
+
+[Genomon Office Hour](https://genomon-office.youcanbook.me)
+
  The character of Genomon is desined by Yuki Tsujita.
 
