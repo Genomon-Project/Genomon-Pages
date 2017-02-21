@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_to:
+ - https://genomon-project.github.io/GenomonPagesR/
 image:
   feature: genomon-8fps-1100px-once.gif
 headline: Genomon 
