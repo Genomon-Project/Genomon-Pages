@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_to:
+ - https://genomon-project.github.io/GenomonPagesR/
 title: About Genomon 
 excerpt: "Genomon is an easy-to-use cancer genome sequence analysys pipeline"
 modified: 2014-08-08T19:44:38.564948-04:00

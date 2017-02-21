@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_to:
+ - https://genomon-project.github.io/GenomonPagesR/
 title: Contact us
 excerpt: "The Zen of Cancer Genome Analysis"
 image:
